@@ -10,10 +10,10 @@ const Header = () => {
                 Dio Shopping
             </Typography>
             <Link to="/">
-                <Button color="primary">Home</Button>
+                <Button color="gray">Home</Button>
             </Link>
             <Link to="/contato">
-                <Button color="primary">Contato</Button>
+                <Button color="gray">Contato</Button>
             </Link>
             <Cart />   
 
